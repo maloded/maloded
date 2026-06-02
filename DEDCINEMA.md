@@ -41,7 +41,7 @@ The system consists of multiple microservices communicating via gRPC:
 - **Logs:** Loki + Promtail
 - **Exporters:** postgres-exporter, redis-exporter, rabbitmq-exporter, node-exporter
 
-- ### Frontend
+### Frontend
 - **Runtime:** Node.js + TypeScript
 - **Framework:** Next.js 16 (App Router)
 - **Styling:** Tailwind CSS v4 + shadcn/ui
