@@ -41,6 +41,15 @@ The system consists of multiple microservices communicating via gRPC:
 - **Logs:** Loki + Promtail
 - **Exporters:** postgres-exporter, redis-exporter, rabbitmq-exporter, node-exporter
 
+- ### Frontend
+- **Runtime:** Node.js + TypeScript
+- **Framework:** Next.js 16 (App Router)
+- **Styling:** Tailwind CSS v4 + shadcn/ui
+- **State Management:** Zustand (client), TanStack Query (server)
+- **HTTP Client:** Axios (interceptors, refresh token queue)
+- **Forms:** React Hook Form + Zod
+- **Payments:** Stripe Checkout (redirect flow)
+
 ## Getting Started
 
 ```bash
@@ -60,4 +69,4 @@ yarn start:dev
 
 ## API Documentation
 
-Swagger UI available at `http://localhost:4000/docs`
+Swagger UI available at `http://localhost:4000/docs` deploy processing...
