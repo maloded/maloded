@@ -5,8 +5,7 @@
 <code>🗿 Community: Metarhia, Metatech University</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>💣 [Projects](PROJECTS.md)</code><br>
-[![leetcode](LeetCode-blog-dark-mode.png)](https://leetcode.com/damatomxxx/)
-![codewars](https://www.codewars.com/users/Maloded/badges/micro)
+
 
 
 
