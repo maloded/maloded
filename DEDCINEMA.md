@@ -7,7 +7,7 @@ A production-ready cinema ticket booking platform built with microservices archi
 The system consists of multiple microservices communicating via gRPC:
 
 - **Gateway Service** — API Gateway, REST endpoints, auth middleware
-- **Auth Service** — JWT, OTP (email/SMS), Telegram verification, role-based access
+- **Auth Service** — Custom passport auth with OTP (email/SMS), Telegram verification, role-based access
 - **Movie Service** — Film catalog, categories, Redis caching
 - **Screening Service** — Sessions management, scheduling
 - **Theater Service** — Theaters, halls, seats management
