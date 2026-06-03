@@ -1,11 +1,47 @@
-# Personal profile of software engineering skills
+# Skills
 
-Backend: Node.js, TypeScript, NestJS, Express, GraphQL, gRPC, REST API, Prisma, TypeORM, Drizzle
-Databases: PostgreSQL, MongoDB, Redis, BullMQ
-Auth: JWT, OTP, OAuth2, Telegram, Sessions, Role-based access
-Frontend: React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Zustand, Redux Toolkit, React Hook Form, Zod, Apollo Client
-Infrastructure: Docker, Docker Compose, CI/CD, GitHub Actions, AWS S3, RabbitMQ
-Observability: Prometheus, Grafana, Jaeger, OpenTelemetry, Loki
-Payments: Stripe
-Testing: Jest, Cypress, Storybook, Loki
-Other: gRPC/Protobuf, WebRTC/LiveKit, Sharp, i18next
+## Backend
+- Node.js · TypeScript · NestJS · Express
+- REST API · GraphQL (Apollo Server) · gRPC (Protobuf)
+- Prisma · Drizzle · TypeORM
+
+## Databases
+- PostgreSQL · MongoDB · Redis
+- BullMQ · RabbitMQ
+
+## Frontend
+- React · Next.js (App Router) · TypeScript
+- Tailwind CSS · shadcn/ui · Radix UI · SCSS
+- Zustand · Redux Toolkit
+- React Hook Form · Zod
+- Apollo Client · GraphQL Codegen
+
+## Auth & Security
+- JWT · Sessions · OTP (email/SMS)
+- Telegram verification · Role-based access (RBAC)
+- OAuth2 basics
+
+## Payments
+- Stripe (Checkout Sessions · Webhooks · Refunds)
+
+## Infrastructure
+- Docker · Docker Compose
+- GitHub Actions (CI/CD)
+- S3 (object storage)
+
+## Observability
+- Prometheus · Grafana
+- Jaeger · OpenTelemetry
+- Loki · Promtail
+
+## Testing
+- Jest · Testing Library
+- Cypress (E2E)
+- Storybook · Loki (visual regression)
+
+## Tools
+- Git · GitHub
+- Swagger / OpenAPI
+- WebRTC · LiveKit
+- Sharp (image processing)
+- i18next (internationalization)
